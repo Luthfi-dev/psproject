@@ -1,0 +1,146 @@
+html,
+body,
+body > div:first-child,
+div#__next,
+div#__next > div,
+div#__next > div > div {
+  height: 100%;
+}
+.img {
+  object-fit: contain;
+  width: 100% !important;
+  position: relative !important;
+  height: unset !important;
+}
+
+.container-img {
+  width: 100%;
+}
+.container-img > span {
+  position: unset !important;
+}
+.card-thread > p {
+  margin-bottom: 0px !important;
+}
+.white-space {
+  white-space: pre-wrap;
+}
+
+.alert p {
+  margin-bottom: 0px !important;
+}
+.ql-container.ql-snow {
+  font-family: Poppins, Helvetica, sans-serif;
+  font-size: 1.05rem;
+}
+.ql-container.ql-editor {
+  background-color: #f5f8fa !important;
+}
+.no-border {
+  border: none !important;
+}
+.modal-content {
+  border-radius: 4px !important;
+}
+.hover-scroll-overlay-y {
+  overflow-x: hidden;
+}
+.swal2-styled.swal2-confirm {
+  background-color: #3699ff !important;
+}
+.swal2-styled.swal2-cancel {
+  background-color: #fff5f8 !important;
+  color: #f64e60 !important;
+}
+.text-success {
+  color: #16a39d !important;
+}
+.border-success {
+  border-color: #16a39d !important;
+}
+.svg-icon.svg-icon-success svg [fill]:not(.permanent):not(g) {
+  fill: #16a39d !important;
+}
+.bg-pdf {
+  background: #cc4b4b !important;
+}
+.border-pdf {
+  border-color: #cc4b4b !important;
+}
+.bg-active-light-transparant.active {
+  background-color: #f5f8fa !important;
+}
+.font-finance-currency-large {
+  font-size: 16px !important;
+  opacity: 90% !important;
+}
+.project-tab-card {
+  min-height: 955px;
+}
+.min-w-90 {
+  min-width: 90% !important;
+}
+.min-w-80 {
+  min-width: 80% !important;
+}
+.min-h-90 {
+  min-height: 90% !important;
+}
+.h-90 {
+  height: 90% !important;
+}
+.h-95 {
+  height: 95% !important;
+}
+.blockui .blockui-message .spinner-border{
+  padding: 0.75rem;
+  border-bottom-width: 1px;
+  box-shadow: inset 0 0 0 9999px var(--bs-table-accent-bg);
+  font-size: 1.075rem !important;
+}
+.hidden {
+  display: none !important;
+}
+.btn-excel{
+  background-color: #0d7239 !important;
+  color: #FFFFFF !important
+}
+.btn-excel > i {
+  color: #FFFFFF !important
+}
+.btn-excel:hover{
+  background-color: #0f7c41 !important;
+  color: #FFFFFF !important
+}
+#toast-container > div.toast{
+  border-radius: 4px !important;
+  box-shadow: none !important;
+  opacity: 1 !important;
+}
+.nav-line-tabs.nav-line-tabs > li.nav-item{
+  border-radius: 5px 5px 0px 0px !important;
+  margin-right: 5px !important
+}
+.nav-line-tabs .nav-item .nav-link{
+  margin: 0px !important;
+}
+.nav-link.active{
+  border-radius: 5px 5px 0px 0px !important;
+}
+.text-under-document-65px {
+  inline-size: 65px;
+  overflow: hidden;
+  display: block;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  cursor: pointer;
+  opacity: .6;
+  color: #056cc1;
+}
+.list-group-flush > .list-group-item {
+  border-width: 0 0 .9px !important
+}
+.bg-active-navbar.active { 
+  background-color: #ddf2fe !important;
+}
